@@ -196,6 +196,7 @@ header.masthead h2 {
 
 .portfolio {
   margin-bottom: -15px;
+  background-color: #bee0ff;
 }
 
 .portfolio .portfolio-item {
@@ -231,6 +232,7 @@ header.masthead h2 {
 }
 
 .portfolio-modal .portfolio-modal-dialog {
+  background-color: #bee0ff;
   padding: 3rem 1rem;
   min-height: calc(100vh - 2rem);
   margin: 1rem calc(1rem - 8px);

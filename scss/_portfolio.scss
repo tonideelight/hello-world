@@ -1,6 +1,7 @@
 // Styling for the portfolio section
 .portfolio {
   margin-bottom: -15px;
+  background-color: rgb(190, 224, 255);
   .portfolio-item {
     position: relative;
     display: block;
@@ -30,6 +31,7 @@
 
 .portfolio-modal {
   .portfolio-modal-dialog {
+    background-color: rgb(190, 224, 255);
     padding: 3rem 1rem;
     min-height: calc(100vh - 2rem);
     margin: 1rem calc(1rem - 8px);
